@@ -2,7 +2,7 @@
 what is the diffrence between test.js and test.txt? 
 both txt file and js file can treat as source code.
 but diffrence is which file is executed by softwares like "compilers and interpreters"
-we use .js extention becuase these extentions help compilers or interpreters to read the written code. 
+we use .js extention becuase these extentions help compilers or interpreters to read the written code in js syntax. 
 
 */
 
