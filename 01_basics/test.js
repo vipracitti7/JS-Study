@@ -1,5 +1,13 @@
+/* 
+what is the diffrence between test.js and test.txt? 
+both txt file and js file can treat as source code.
+but diffrence is which file is executed by softwares like "compilers and interpreters"
+we use .js extention becuase these extentions help compilers or interpreters to read the written code. 
+
+*/
+
 console.log("Vipracitti")
-console.log ("test")
+
 /* Why are you learning Js?
 Because i want to build products like : 
 A time management web.
